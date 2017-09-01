@@ -1,10 +1,6 @@
-Hi everyone,
-
-I am sending resources and links that were mentioned in the career talk on 8/30 Wednesday.
+# Resources for math and data science undergraduates at University of San Francisco
 
 First, join our **USF Math&Stats Alumni LinkedIn group**: https://www.linkedin.com/groups/7048287. You can find alumni and current students there and keep connected after graduation. We will also post useful information and opportunities.
-
-Second, you can always find the content of this email on the [LinkedIn group](https://www.linkedin.com/groups/7048287) and here: https://github.com/xuemeic/Undergraduates.
 
 ## Useful links
 - http://mathcareers.maa.org/ -- A diverse range of job postings for math majors.
