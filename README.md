@@ -1,6 +1,6 @@
 Hi everyone,
 
-I am sending resrouces and links that were mentioned in the career talk on 8/30 Wednesday.
+I am sending resources and links that were mentioned in the career talk on 8/30 Wednesday.
 
 First, join our **USF Math&Stats Alumni LinkedIn group**: https://www.linkedin.com/groups/7048287. You can find alumni and current students there and keep connected after graduation. We will also post useful information and opportunities.
 
