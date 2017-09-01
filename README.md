@@ -25,7 +25,7 @@ First off, join our **USF Math&Stats Alumni LinkedIn group**: https://www.linked
 
 ### 2. Be a grader for math courses: A google form will be sent out before each semester starts.
 
-### 3. Learning and writing center tutoring: https://myusf.usfca.edu/student-life/lwc/peer-tutoring-information/tutorpositions
+### 3. [Learning and writing center tutoring](https://myusf.usfca.edu/student-life/lwc/peer-tutoring-information/tutorpositions)
 
 ## Summer programs 
 Deadlines are usually in February. List is not comprehensive.
@@ -39,14 +39,13 @@ Deadlines are usually in February. List is not comprehensive.
 |[Research in Industrial Projects for Students (RIPS)](http://www.ipam.ucla.edu/programs/student-research-programs/)|research/intern|No (use CPT)|
 |[NSA internship **10/15 deadline**](https://www.intelligencecareers.gov/icstudents.html?Agency=NSA) (Director's summer program)|intern|US citizen + security clearance|
 
-## 2017-2018 year
-- MSRI-UP 2018: The Mathematics of Data Science (Summer 2018): http://www.msri.org/msri_ups/882
-- 
+### In 2018 summer, there is a great program on data science at MSRI
+MSRI-UP 2018: The Mathematics of Data Science (Summer 2018): http://www.msri.org/msri_ups/882
 
-2017 nebraska conf women
-Northern Cali
+### Internships
+Go to the company websites. For example, [this](https://www.facebook.com/careers/jobs/a0I1200000LT6x8EAD/) is the link for facebook data analytics internship.
 
-
-intern: facebook, nsa, 
-
-msri http://www.msri.org/msri_ups/882
+## Conferences
+- [Nebraska Conference for Undergraduate Women in Mathematics](https://www.math.unl.edu/~ncuwm/19thAnnual/), annually, February
+- [Northern California Undergraduate Mathematics Conference](https://sites.google.com/site/nocalumc/), annully
+- ...
