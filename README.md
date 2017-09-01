@@ -45,5 +45,5 @@ Go to the company websites. For example, [this](https://www.facebook.com/careers
 
 ## Conferences
 - [Nebraska Conference for Undergraduate Women in Mathematics](https://www.math.unl.edu/~ncuwm/19thAnnual/), annually, February
-- [Northern California Undergraduate Mathematics Conference](https://sites.google.com/site/nocalumc/), annully
+- [Northern California Undergraduate Mathematics Conference](https://sites.google.com/site/nocalumc/), annually
 - ...
