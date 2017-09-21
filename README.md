@@ -47,3 +47,6 @@ Go to the company websites. For example, [this](https://www.facebook.com/careers
 - [Nebraska Conference for Undergraduate Women in Mathematics](https://www.math.unl.edu/~ncuwm/19thAnnual/), annually, February
 - [Northern California Undergraduate Mathematics Conference](https://sites.google.com/site/nocalumc/), annually
 - ...
+
+## Good read
+- [Undergraduate Research in Statistics and Data Science](http://magazine.amstat.org/blog/2017/09/01/undergraduateexpectations/)
